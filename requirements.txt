@@ -3,3 +3,4 @@ pandas==1.3.0
 dash
 gunicorn==19.7.1
 cython
+requests
